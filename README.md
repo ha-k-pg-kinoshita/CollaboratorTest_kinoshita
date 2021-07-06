@@ -1,0 +1,2 @@
+# CollaboratorTest_kinoshita
+コラボレーター機能のテスト用
